@@ -1,0 +1,7 @@
+openai
+python-dotenv~=1.0.1
+semantic-kernel>=1.27.2
+python-dotenv~=1.0.1
+semantic-kernel>=1.27.2
+semantic-kernel[azure]>=1.27.2
+semantic-kernel[mcp]>=1.27.2
